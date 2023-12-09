@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains a comprehensive analysis of Oura Ring data, aiming to explore patterns, trends, and insights. The data is obtained from the Oura Ring, a wearable device that tracks various health-related metrics.
+This repository contains an analysis of Oura Ring data, aiming to explore patterns, trends, and insights deeper than that provided by the device itself. The Oura Ring, is 
+a wearable device that tracks various health-related metrics. Namely, it tracks Resting Heart Rate, HVR, amongst others. 
 
 ## Contents
 
